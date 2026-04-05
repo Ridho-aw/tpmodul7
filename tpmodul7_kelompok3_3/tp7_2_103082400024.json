@@ -1,0 +1,14 @@
+﻿{
+    "mk 1": {
+        "Kode_matakuliah": "CCK2GAB3",
+        "nama_mataKuliah": "INTERAKSI MANUSIA KOMPUTER"
+    },
+    "MK 2": {
+        "Kode_matakuliah": "CCK2HAB4",
+        "nama_mataKuliah": "BASIS DATA"
+    },
+    "MK 3": {
+        "Kode_matakuliah": "CCK2KAB4",
+        "nama_mataKuliah": "KONSTRUKSI PERANGKAT LUNAK"
+    }
+}
