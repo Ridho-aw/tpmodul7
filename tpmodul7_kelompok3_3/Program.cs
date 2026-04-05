@@ -3,6 +3,10 @@ using System.IO;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 using System.Collections.Generic;
+
+using tpmodul7_kelompok3_3;
+
+
 public class namaLengkap
 {
     [JsonPropertyName("Nama Depan")]
@@ -57,5 +61,9 @@ public class Program
     {
         DataMahasiswa103082400024.ReadJSON();
         KuliahMahasiswa103082400024.ReadJSON();
+
+        
+        DataMahasiswa103082400005.ReadJSON();
+        KuliahMahasiswa103082400005.ReadJSON();
     }
 }
