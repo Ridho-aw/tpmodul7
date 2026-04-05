@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace tpmodul7_kelompok3_3
+{
+    class tp7_1_103082400024
+  {
+    "Nama": {
+      "Nama Depan": "Ridho",
+      "Nama Belakang": "Ananta Wibowo"
+    },
+    "nim": "103082400024",
+    "fakultas" :  "Informatika"
+  }
+}
